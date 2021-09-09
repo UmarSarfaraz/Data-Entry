@@ -10,6 +10,11 @@
     background-color: whitesmoke;
 } */
 
+
+
+#btnp{
+    font-size: 14px;
+}
 .navbar{
     background-color: #fff !important;
 }
@@ -330,7 +335,7 @@ a{
     #card{
         /* height:430px; */
         width:235px;
-        height: 450px;
+        height: 420px;
     }
     #cardimg{
        
@@ -344,7 +349,7 @@ a{
 
     #cardp{
         width:218px ;
-        height:570px;
+        height:535px;
     }
     #cardimgc{
         

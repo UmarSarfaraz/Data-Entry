@@ -3,11 +3,11 @@ import web from "../src/Images/twentyfour.PNG";
 import fb from "../src/Images/twentyone.PNG";
 import gh from "../src/Images/twentytwo.PNG";
 import li from "../src/Images/twentythree.PNG";
-import html from "../src/Images/twentyseven.PNG";
-import css from "../src/Images/twentyeight.PNG";
-import js from "../src/Images/twentynine.PNG";
-import jquery from "../src/Images/thirty.PNG";
-import reactjs from "../src/Images/thirtyone.PNG";
+import w from "../src/Images/one.PNG";
+import e from "../src/Images/two.PNG";
+import p from "../src/Images/three.PNG";
+import ptw from "../src/Images/four.PNG";
+import br from "../src/Images/five.PNG";
 
 
 
@@ -27,16 +27,16 @@ const About=()=>{
                     <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                         <h1 id="About">About Me</h1>
                         <div className="about">
-                        <h4>Hi,I am Umar Sarfaraz a front end Developer.</h4>
-                        <h5>I have learned front end web development and now my focus is on learning backend language
-                         and database.My goal is to become a full stack web developer and designer.
+                        <h4>Hi,I am Umar Sarfaraz a data entry operator,Ms word,Excel,Powerpoint expert.</h4>
+                        <h5>I have 2+years experience in this field.I can do tasks related to Ms word,Excel,Powerpoint.I can also convert the documents from word to PDF and vice versa.                  
+                        My goal is to become a full expert in all office System like MS Visio,MS Access etc.
                         </h5>
-                        <h5 className="mt-1">I can create user interactive and fast loading responsive websites.</h5>
+                        {/* <h5 className="mt-1">I can create user interactive and fast loading responsive websites.</h5> */}
                         </div> 
                         <div className="mt-2">
-                            <a href="https://www.fiverr.com/users/umar316/" target="_blank" className="btn btn-outline-primary">Hire Me</a>
+                            <a href="https://www.upwork.com/freelancers/~0154ec8dacab36874f" target="_blank" className="btn btn-outline-primary">Hire Me</a>
                         
-                            <a href="https://drive.google.com/file/d/1HXsOB07Mz_gl3rPCvJV3MrgrrlsdNS4S/view?usp=drivesdk"
+                            <a href="https://drive.google.com/file/d/1W-EmfDSrtEYzfxSdIIpXDfFii5bk7Poy/view?usp=drivesdk"
                              target="_blank" 
                             className="btn btn-outline-primary">View CV</a>
                         </div>
@@ -64,11 +64,11 @@ const About=()=>{
                        <br/>
                         <h2 id="About">Expertise</h2>
 
-                       <img src={html}  className="fb" alt="HTML"/>
-                       <img src={css} className="fb" alt="Cascading Style Sheets"/>
-                       <img src={js} className="fb" alt="JavaScript"/>
-                       <img src={jquery} className="fb" alt="JQuery"/>
-                       <img src={reactjs} className="fb" alt="ReactJs"/>
+                       <img src={w}  className="fb" alt="MS Word"/>
+                       <img src={e} className="fb" alt="MS Excel"/>
+                       <img src={p} className="fb" alt="MS Powerpoint"/>
+                       <img src={ptw} className="fb" alt="PDF"/>
+                       <img src={br} className="fb" alt="PDF to Word"/>
 
 
                        
