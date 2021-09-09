@@ -3,8 +3,7 @@ import web from "../src/Images/thirteen.PNG";
 import netflix from "../src/Images/fifteen.PNG";
 import clock from "../src/Images/fourteen.PNG";
 import todoList from "../src/Images/twelve.PNG";
-import temp from "../src/Images/eighteen.PNG";
-import quiz from "../src/Images/seventeen.PNG";
+
 
 
 const Projects=()=>{
